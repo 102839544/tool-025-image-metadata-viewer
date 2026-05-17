@@ -11,11 +11,8 @@
 ## 📦 安装
 
 ```bash
-# 克隆仓库
 git clone https://github.com/102839544/tool-025-image-metadata-viewer.git
 cd tool-025-image-metadata-viewer
-
-# 安装依赖
 pip install -r requirements.txt
 ```
 
